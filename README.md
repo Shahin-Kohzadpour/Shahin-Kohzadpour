@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🌟 Welcome to Shahin Kohzadpour's GitHub Profile! 🌟
 
-<!--
-**Shahin-Kohzadpour/Shahin-Kohzadpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Shahin Kohzadpour** 👋  
+I'm a **Computer Engineering student** at **Shiraz University** in Iran, passionate about technology, problem-solving, and continuous learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 **Currently learning:** Advanced programming concepts and frameworks.
+- 💼 **Currently working on:** Academic projects and exploring open-source contributions.
+- 🎓 **Education:** Bachelor of Science in Computer Engineering, Shiraz University.
+- 📫 **Reach me at:** [My LinkedIn Profile](https://www.linkedin.com/in/shahin-kohzadpour/)
+
+---
+
+🌟 *Thank you for visiting! Explore my repositories and let's connect!* 🌟
