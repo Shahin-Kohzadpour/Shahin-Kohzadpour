@@ -1,7 +1,7 @@
 # Welcome! 
 
 Hi there! I'm **Shahin Kohzadpour** 👋  
-I'm a **Computer Engineering student** at **Shiraz University** in Iran, passionate about technology, problem-solving, and continuous learning.
+I'm a **Computer Engineering student**, passionate about technology, problem-solving, and continuous learning.
 
 ---
 
