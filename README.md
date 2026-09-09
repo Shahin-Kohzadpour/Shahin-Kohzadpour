@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1200&pause=500&color=003399&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Shahin+Kohzadpour;Full-Stack+Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1200&pause=500&color=003399&center=true&vCenter=true&multiline=true&width=600&height=65&lines=Shahin+Kohzadpour;Full-Stack+Software+Engineer" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
+  <br/>
   <a href="https://www.linkedin.com/in/shahin-kohzadpour">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -20,8 +18,7 @@
 - Computer Engineering graduate (Top 20%), Shiraz University
 - Full-stack engineer shipping production systems: React/Next.js frontends, Node.js/NestJS/Laravel/FastAPI backends, and Dockerized deployments
 - Experienced in building real-world systems for healthcare, academic, and commercial clients
-- Former Teaching Assistant: Data Structures, Algorithms, Database Design, and Systems Programming
-
+- Former Teaching Assistant at Shiraz University: Data Structures, Algorithms, Database Design, Systems Programming, Fundamentals of Programming, and Numerical Analysis
 ## Languages
 | JavaScript | TypeScript | Python | PHP | Java | Kotlin | C# |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -47,7 +44,3 @@
   <img src="profile/stats.svg" alt="Shahin Kohzadpour's GitHub Stats" />
   <img src="profile/top-langs.svg" alt="Most Used Languages" />
 </p>
-
-## Spoken Languages
-- Persian: Native (C2)
-- English: Upper-Intermediate (B2)
