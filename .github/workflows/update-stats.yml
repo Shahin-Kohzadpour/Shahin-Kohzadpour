@@ -1,0 +1,42 @@
+name: Update GitHub stats cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   
+  workflow_dispatch:        
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Ensure profile directory exists
+        run: mkdir -p profile
+
+      - name: Generate stats card (includes private commits/PRs/issues)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Shahin-Kohzadpour&hide_border=true&theme=radical&count_private=true
+          path: profile/stats.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Generate top languages card (includes private repos)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Shahin-Kohzadpour&hide_border=true&layout=donut&theme=radical
+          path: profile/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git diff --staged --quiet || git commit -m "chore: update profile stats cards"
+          git push
