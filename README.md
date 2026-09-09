@@ -8,10 +8,12 @@
   <a href="https://www.linkedin.com/in/shahin-kohzadpour">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://t.me/Shahin_Kohzadpour">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
   <a href="mailto:shahinkohzadpour@yahoo.com">
     <img src="https://img.shields.io/badge/Email-6001D2?style=for-the-badge&logo=yahoo&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Shahin-Kohzadpour&color=003399&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ## About Me
