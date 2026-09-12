@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Shahin Kohzadpour&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 389, Total PRs: 7, Total Issues: 6, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 409, Total PRs: 16, Total Issues: 14, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 208.68079296893433;
+        stroke-dashoffset: 197.69607216406817;
       }
     }
   
@@ -176,7 +176,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >389</text>
+      >409</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >7</text>
+      >16</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -198,7 +198,7 @@
         x="204.01"
         y="12.5"
         data-testid="issues"
-      >6</text>
+      >14</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
