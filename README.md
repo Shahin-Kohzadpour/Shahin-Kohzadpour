@@ -43,7 +43,7 @@
 ## AI & Agentic Development
 | Google Antigravity | OpenAI Codex |
 |:---:|:---:|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Google Antigravity" title="Google Antigravity" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="OpenAI Codex" title="OpenAI Codex" width="50" height="50"/> |
+| <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/Shahin-Kohzadpour@main/profile/antigravity.svg" alt="Google Antigravity" title="Google Antigravity" width="50" height="50"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" alt="OpenAI Codex" title="OpenAI Codex" width="50" height="50"/> |
 
 ## GitHub Stats
 <p align="center">
