@@ -15,10 +15,10 @@
 </p>
 
 ## About Me
-- Computer Engineering graduate (Top 20%), Shiraz University
-- Full-stack engineer shipping production systems: React/Next.js frontends, Node.js/NestJS/Laravel/FastAPI backends, and Dockerized deployments
-- Experienced in building real-world systems for healthcare, academic, and commercial clients
+- Computer Engineering graduate, Shiraz University (Top 20% of cohort)
+- Developing web platforms, mobile applications, and backend APIs across healthcare, academic, and commercial sectors
 - Former Teaching Assistant at Shiraz University: Data Structures, Algorithms, Database Design, Systems Programming, Fundamentals of Programming, and Numerical Analysis
+- Open to remote engineering roles, contract work, and freelance projects
 
 ## Languages
 | JavaScript | TypeScript | Python | PHP | Java | Kotlin | C# |
