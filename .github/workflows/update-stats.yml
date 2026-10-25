@@ -39,7 +39,11 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
           if ! git diff --staged --quiet; then
-            git commit -m "chore: update profile stats cards"
+            TIMESTAMP=$(date +%s)
+            sed -i -E "s|(profile/stats\.svg)(\?v=[0-9]+)?|\1?v=${TIMESTAMP}|g" README.md
+            sed -i -E "s|(profile/top-langs\.svg)(\?v=[0-9]+)?|\1?v=${TIMESTAMP}|g" README.md
+            git add README.md
+            git commit -m "chore: update profile stats cards and cache buster [skip ci]"
             git push
             # Purge jsDelivr CDN cache so updated cards show immediately worldwide
             curl -s "https://purge.jsdelivr.net/gh/Shahin-Kohzadpour/Shahin-Kohzadpour@main/profile/stats.svg" > /dev/null || true

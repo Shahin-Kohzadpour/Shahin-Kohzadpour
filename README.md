@@ -47,8 +47,8 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/Shahin-Kohzadpour@main/profile/stats.svg" alt="Shahin Kohzadpour's GitHub Stats" />
-  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/Shahin-Kohzadpour@main/profile/top-langs.svg" alt="Most Used Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/Shahin-Kohzadpour@main/profile/stats.svg?v=1792925442" alt="Shahin Kohzadpour's GitHub Stats" />
+  <img src="https://cdn.jsdelivr.net/gh/Shahin-Kohzadpour/Shahin-Kohzadpour@main/profile/top-langs.svg?v=1792925442" alt="Most Used Languages" />
 </p>
 
 ## Spoken Languages
